@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Greetings!&fontSize=90)
 #### Hello there! 🖐️ My name is Tatiana. 
 #### I am a Frontend develоper and HTML-coder.
+#### Feel free to write to me: 
+   <div>
+  <a href="mailto:tatiana.vik4001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>
 
 ___
 
